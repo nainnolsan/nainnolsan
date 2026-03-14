@@ -35,6 +35,7 @@ My experience includes working as a **Digital Accessibility Specialist at BYU-Id
 
 ---
 
+<!--
 ## Featured Projects
 
 > Add your best projects here. Replace the placeholders with your real repositories and descriptions.
@@ -57,6 +58,7 @@ My experience includes working as a **Digital Accessibility Specialist at BYU-Id
 - **Repository:** [View Project](https://github.com/nainnolsan/project-3)
 
 ---
+-->
 
 ## GitHub Statistics
 
